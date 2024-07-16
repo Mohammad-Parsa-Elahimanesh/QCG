@@ -12,5 +12,4 @@ Place the project directory alongside `Quera_Test` and `validator` folders. The 
 
 ## Usage
 
-Run the program to create a `config.json` file in the `Quera_Test` folder.
-
+Run `Subtask.sh` to create a `config.json` file in the `Quera_Test` folder. Also `Config.sh` may help create config.json manually.
